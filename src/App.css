@@ -1,0 +1,15 @@
+.Like_dislike {
+  background-color: transparent;
+  width: 50%;
+  border: none;
+}
+.Like_dislike span {
+  margin-right: 5px;
+  font-weight: bold;
+}
+.bootstrapSpinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
